@@ -1,3 +1,4 @@
+
 package bagian1.berkas;
 
 import java.io.File;
@@ -20,3 +21,4 @@ public static void main(String args[]) throws IOException {
  System.out.println("Dapat dibaca: " + berkas.canRead());
  }
 }
+
