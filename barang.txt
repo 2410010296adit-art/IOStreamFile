@@ -1,0 +1,5 @@
+Laptop ASUS;8500000.0;10
+Smartphone Samsung;3500000.0;15
+Kemeja Flanel;150000.0;50
+Biskuit Kaleng;45000.0;100
+Printer Epson;2200000.0;5
